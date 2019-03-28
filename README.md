@@ -10,11 +10,14 @@ Nos passos a seguir, rodei tudo pelo bash, no Linux, mas imagino que todos funci
 
 Ative o ambiente:
 ```source env/bin/activate```
-Clone o repositório
+
+Clone o repositório:
 ```git clone https://github.com/DiegoCacau/ES2.git```
-Entre na pasta
+
+Entre na pasta:
 ```cd ES2```
-Instale os prerequisitos
+
+Instale os prerequisitos:
 ```pip install -r requirements.txt```
 
 Por fim, só testar se está tudo funcionando, com o comando:
